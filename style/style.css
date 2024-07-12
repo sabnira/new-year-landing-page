@@ -18,7 +18,7 @@ body{
     margin-top: 40px;
     
     background-color: rgba(0, 0, 0, 0.5);
-    background-image: url("/images/Banner\ Image.png");
+    background-image: url("../images/Banner-Image.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -97,7 +97,7 @@ body{
     margin-top: 120px;
     background-color: rgba(0, 0, 0, 0.7);
 
-    background-image: url("/images/Vectorrr.png");
+    background-image: url("../images/Vectorrr.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
